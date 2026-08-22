@@ -7,32 +7,32 @@
 ### شاشة تسجيل الدخول
 
 
-![تسجيل الدخول](super-login.png)
+![تسجيل الدخول](market-login.png)
 
 
 
 ### لوحة التحكم الرئيسية
 
 
-![لوحة التحكم](super-dashboard.png)
+![لوحة التحكم](market-dashboard.png)
 
 
 
 ### شاشة البيع (POS)
 
 
-![شاشة البيع](super-pos.png)
+![شاشة البيع](market-pos.png)
 
 
 
 ### إدارة المنتجات (Products)
 
 
-![إدارة المنتجات](super-products.png)
+![إدارة المنتجات](marke-products.png)
 
 
 
 ### التقارير
 
 
-![التقارير](super-reports.png)
+![التقارير](market-reports.png)
